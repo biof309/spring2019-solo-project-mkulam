@@ -3,7 +3,7 @@ myproject
 =========
 
 
-Add a short description here!
+Cool project name
 
 
 Description
